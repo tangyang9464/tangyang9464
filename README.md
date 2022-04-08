@@ -3,7 +3,6 @@
 - 👋 Hi, I’m ``tangyang``
 - 👀 I’m interested in ``Open source``
 - 🌱 I’m currently learning ``Golang`` and ``Casbin``
-- 💞️ I’m looking to collaborate on ``Casbin``
 - 📫 How to reach me tangyang9464@163.com
 
 <!---

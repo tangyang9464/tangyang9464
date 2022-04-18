@@ -2,7 +2,6 @@
 ![go](https://img.shields.io/badge/lang-go-blue)
 - 👋 Hi, I’m ``tangyang``
 - 👀 I’m interested in ``Open source``
-- 🌱 I’m currently learning ``Golang`` and ``Casbin``
 - 📫 How to reach me tangyang9464@163.com
 
 <!---
